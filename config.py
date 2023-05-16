@@ -1,1 +1,1 @@
-TOKEN="5553029203:AAGGPGjziIKYw0eMGhNmcxzeyBJSrGNnffQ"
+TOKEN="There is place for your token bot"
