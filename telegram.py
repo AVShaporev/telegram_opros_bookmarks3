@@ -10,7 +10,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.dispatcher.filters import IDFilter, RegexpCommandsFilter, Regexp
 import markups as btn
 from db import Database
-import config
+from config import TOKEN
 
 db = Database("1.db")
 
